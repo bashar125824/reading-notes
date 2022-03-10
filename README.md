@@ -105,6 +105,20 @@
 
 ---
 
+# Terminal Observations :
+
+1. ***The command line :*** I use the **ls** command usually , but after reading , I discovered a new thing , that I can use **-l** option , but to be honset , I didn't git the idea from using it ! So I will continoue use the **ls** alone !
+
+2. ***Basic Navigation :*** I wasn't know the **pwd** command , but it's a very useful command , I know the **cd** command , but I noticed a new thing , that I can use **../../** with **cd** to return backward in path , I used to do a stupid thing like : **cd /the path** , I will never do that !
+
+3. ***More About Files :*** the **-a** option is new for me , that's it 
+
+4. ***Manual Pages :*** this is a new material for me , I didn't use any of **man** , **man -k** or **n** command before , but yeh , it's an interisting thing to know the functionality of each commmand .
+
+5. ***File Manipulation :*** I know most of these command but copy command **cp** is a new thing to me , it saves a lot of time .
+
+6. ***Cheat Sheet :*** Overall , I learned a lot of new commands that I didn't know anything about it before  , and I noticed a new details in some commands that wasn't 100% clear for me .
+
 
 
 
