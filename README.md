@@ -35,73 +35,73 @@
 
 - **Exercise 1** :
 
-![img](/aseets/Exercise%201.PNG);
+![img](/aseets/Exercise1.PNG);
 
 ---
 
 - **Exercise 2** :
 
-![img](/aseets/Exercise%202.PNG);
+![img](/aseets/Exercise2.PNG);
 
 ---
 
 - **Exercise 3** :
 
-![img](/aseets/Exercise%203.PNG);
+![img](/aseets/Exercise3.PNG);
 
 ---
 
 - **Exercise 4** :
 
-![img](/aseets/Exercise%204.PNG);
+![img](/aseets/Exercise4.PNG);
 
 ---
 
 - **Exercise 5** :
 
-![img](/aseets/Exercise%205.PNG);
+![img](/aseets/Exercise5.PNG);
 
 ---
 
 - **Exercise 6** :
 
-![img](/aseets/Exercise%206.PNG);
+![img](/aseets/Exercise6.PNG);
 
 ---
 
 - **Exercise 13** :
 
-![img](/aseets/Exercise%2013.PNG);
+![img](/aseets/Exercise13.PNG);
 
 ---
 
 - **Exercise 14** :
 
-![img](/aseets/Exercise%2014.PNG);
+![img](/aseets/Exercise14.PNG);
 
 ---
 
 - **Exercise 15** :
 
-![img](/aseets/Exercise%2015.PNG);
+![img](/aseets/Exercise15.PNG);
 
 ---
 
 - **Exercise 16** :
 
-![img](/aseets/Exercise%2016.PNG);
+![img](/aseets/Exercise16.PNG);
 
 ---
 
 - **Exercise 17** :
 
-![img](/aseets/Exercise%2017.PNG);
+![img](/aseets/Exercise17.PNG);
 
 ---
 
 - **Exercise 18** :
 
-![img](/aseets/Exercise%2018.PNG);
+![img](/aseets/Exercise18.PNG);
 
 ---
 
