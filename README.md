@@ -26,12 +26,12 @@
 
 # SQL Preb-Work
 
-*** understanding of relational databases and SQL : ***
+***understanding of relational databases and SQL :***
 1. Database management systems (DBMS) are computer programs that allow users to interact with a database. A DBMS allows users to control access to a database, write data, run queries, and perform any other tasks related to database management.
 
 2. Thanks to their flexibility and design for data integrity, relational databases are still the primary way data are managed and stored more than fifty years after they were first conceived of. Even with the rise of various NoSQL databases in recent years, understanding the relational model and how to work with RDBMSs are key for anyone who wants to build applications that harness the power of data.
 
-*** ScreenShots for the exercises : ***
+***ScreenShots for the exercises :***
 
 - **Exercise 1** :
 
