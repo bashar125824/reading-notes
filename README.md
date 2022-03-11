@@ -2,6 +2,10 @@
 
 ![IMG](https://www.noodleman.co.uk/images/source/internal-notes/Notes.png)
 
+## Exception Handling Link
+
+[LINK](/ExceptionsHandling.md)
+
 ---
 
 ***This web site is for documinting observations and questions about the reading assignments , and to made every thing clear to understand the requirements for every assignment .***
