@@ -1,10 +1,11 @@
 # Reading Notes
 
+## [Exception Handling Link](/ExceptionsHandling.md)
+
 ![IMG](https://www.noodleman.co.uk/images/source/internal-notes/Notes.png)
 
-## Exception Handling Link
 
-[LINK](/ExceptionsHandling.md)
+
 
 ---
 
