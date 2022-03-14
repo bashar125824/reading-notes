@@ -2,6 +2,10 @@
 
 ![IMG](https://www.noodleman.co.uk/images/source/internal-notes/Notes.png)
 
+## Exception Handling Link
+
+[LINK](/ExceptionsHandling.md)
+
 ---
 
 ## Table of contents :
