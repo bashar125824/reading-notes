@@ -80,7 +80,7 @@ Customer object1 = new Customer();
 
 ***used to initialize any static data, or to perform a particular action that needs to be performed only once .***
 
-***t is called automatically before the first instance is created or any static members are referenced.***
+***it is called automatically before the first instance is created or any static members are referenced.***
 
 ---
 
@@ -127,14 +127,23 @@ Customer object1 = new Customer();
 
 # Stack and Heap
 
-| Stack Memory      | Heap Memory |
-| -----------| ----------- |
-|   It is an array of memory.
+***Stack Memory :***
 
-It is a LIFO (Last In First Out) data structure.
+1. **It is an array of memory.**
 
-In it data can be added to and deleted only from the top of it.   |   It is an area of memory where chunks are allocated to store certain kinds of data objects.
-In it data can be stored and removed in any order.     |
+2. **It is a LIFO (Last In First Out) data structure.**
+
+3. **n it data can be added to and deleted only from the top of it.**
+
+---
+
+***Heap Memory***
+
+1. **It is an area of memory where chunks are allocated to store certain kinds of data objects.**
+
+2. **In it data can be stored and removed in any order.**
+
+
 
 
 
