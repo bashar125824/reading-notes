@@ -16,6 +16,7 @@
 | -----------| ----------- |
 |   Unit Testing and Documentation    |   [Link](/UnitTestingAndDocumentation.md)     |
 |   Files and I/O                     |   [Link](/FilesStreams.md)                    |
+|   Classes and Objects                     |   [Link](/classesAndObjects.md)                    |
 
 
 ---
