@@ -19,6 +19,7 @@
 |   Classes and Objects                     |   [Link](/classesAndObjects.md)                    |
 |   Linked Lists       |   [Link](/LinkedLists.md)                    |
 |   Object Oriented Programming      |   [Link](/OOP.md)                    |
+|   Interfaces      |   [Link](/Interfaces.md)                    |
 
 
 ---
