@@ -13,7 +13,7 @@
 
  ---
 
- ## Example on a Collection :
+## Example on a Collection :
 
  ---
 
@@ -36,11 +36,11 @@ foreach (var salmon in salmons)
 
  ```
 
- ***The example uses the generic List<T> class, which enables you to work with a strongly typed list of objects.***
+***The example uses the generic List<T> class, which enables you to work with a strongly typed list of objects.***
 
  ---
 
- ## Kinds of Collections
+## Kinds of Collections
 
  ---
 
