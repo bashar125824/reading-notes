@@ -20,6 +20,7 @@
 |   Linked Lists       |   [Link](/LinkedLists.md)                    |
 |   Object Oriented Programming      |   [Link](/OOP.md)                    |
 |   Interfaces      |   [Link](/Interfaces.md)                    |
+|   Collections      |   [Link](/Collections.md)                    |
 
 
 ---
