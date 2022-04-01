@@ -36,7 +36,9 @@ foreach (var salmon in salmons)
 
  ```
 
+
 ***The example uses the generic List<T> class, which enables you to work with a strongly typed list of objects.***
+
 
  ---
 
