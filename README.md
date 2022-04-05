@@ -1,10 +1,8 @@
 # Reading Notes
 
+
 ![IMG](https://www.noodleman.co.uk/images/source/internal-notes/Notes.png)
 
-## Exception Handling Link
-
-[LINK](/ExceptionsHandling.md)
 
 ---
 
@@ -15,12 +13,14 @@
 | Topic      | Link |
 | -----------| ----------- |
 |   Unit Testing and Documentation    |   [Link](/UnitTestingAndDocumentation.md)     |
+|   Exception Handling Link    |   [Link](/ExceptionsHandling.md)                     |
 |   Files and I/O                     |   [Link](/FilesStreams.md)                    |
 |   Classes and Objects                     |   [Link](/classesAndObjects.md)                    |
 |   Linked Lists       |   [Link](/LinkedLists.md)                    |
 |   Object Oriented Programming      |   [Link](/OOP.md)                    |
 |   Interfaces      |   [Link](/Interfaces.md)                    |
 |   Collections      |   [Link](/Collections.md)                    |
+|   LINQ      |   [Link](/LINQ.md)                    |
 
 
 ---
