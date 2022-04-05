@@ -11,7 +11,7 @@
 ***LINQ queries return results as objects. It enables you to uses object-oriented approach on the result set and not to worry about transforming different formats of results into objects.***
 
 
-![IMG]https://www.tutorialsteacher.com/Content/images/linq/linq-usage.PNG)
+![IMG](https://www.tutorialsteacher.com/Content/images/linq/linq-usage.PNG)
 
 ![IMG](https://www.tutorialsteacher.com/Content/images/linq/linq-execution.PNG)
 
