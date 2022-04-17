@@ -24,6 +24,7 @@
 |   Stacks and Queues      |   [Link](/stacksAndqueues.md)                    |
 |   Introduction to Databases      |   [Link](/Databases.md)                    |
 |   Entity Framework and APIs       |  [Link](/EntityFrameworkAndAPIs.md)                    |
+|   Dependency Injection       |  [Link](/DependencyInjection.md)                    |
 
 
 ---
