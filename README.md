@@ -30,6 +30,8 @@
 |   Data Transfer Objects (DTO's)   |  [Link](/DTO.md) |
 |   Testing , Swagger , Deployment   |  [Link](/TestingSwaggerDeploy.md) |
 |   IdentityAndAuthintication        |  [Link](/IdentityAndAuthintication.md) |
+|   Claims and JWT Tokens       |  [Link](/Claims_and_JWT_Tokens.md) |
+
 
 ---
 
