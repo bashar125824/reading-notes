@@ -32,6 +32,7 @@
 |   IdentityAndAuthintication        |  [Link](/IdentityAndAuthintication.md) |
 |   Claims and JWT Tokens       |  [Link](/Claims_and_JWT_Tokens.md) |
 |   MVC       |  [Link](/MVC.md) |
+|   MVC Forms       |  [Link](/MVC-FORMS.md.md) |
 
 
 ---
