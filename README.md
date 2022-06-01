@@ -34,6 +34,7 @@
 |   MVC       |  [Link](/MVC.md) |
 |   MVC Forms       |  [Link](/MVC-FORMS.md) |
 |   Cookies       |  [Link](/Cookies.md) |
+|   Hash Table       |  [Link](/HashTable.md) |
 
 
 ---
