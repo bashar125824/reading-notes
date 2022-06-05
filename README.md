@@ -35,6 +35,7 @@
 |   MVC Forms       |  [Link](/MVC-FORMS.md) |
 |   Cookies       |  [Link](/Cookies.md) |
 |   Hash Table       |  [Link](/HashTable.md) |
+|   Azure Blob storage      |  [Link](/Azure_Blob_storage.md) |
 
 
 ---
