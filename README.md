@@ -36,6 +36,7 @@
 |   Cookies       |  [Link](/Cookies.md) |
 |   Hash Table       |  [Link](/HashTable.md) |
 |   Azure Blob storage      |  [Link](/Azure_Blob_storage.md) |
+|   Razor Pages      |  [Link](/Razor_Pages.md) |
 
 
 ---
