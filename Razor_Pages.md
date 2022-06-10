@@ -24,7 +24,7 @@
 
 ***A Razor Page is almost the same as ASP.NET MVC’s view component. It has basically the syntax and functionality same as MVC.***
 
-***The **basic difference** between Razor pages and MVC is that the model and controller code is also added within the Razor Page itself. You do not need to add code separately.***
+***The basic difference between Razor pages and MVC is that the model and controller code is also added within the Razor Page itself. You do not need to add code separately.***
 
 ***It is similar to MVVM (Model-View-View-Model) framework. That provides two-way data binding and a simpler development experience with isolated concerns.***
 
