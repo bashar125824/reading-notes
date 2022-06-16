@@ -38,6 +38,7 @@
 |   Azure Blob storage      |  [Link](/Azure_Blob_storage.md) |
 |   Razor Pages      |  [Link](/Razor_Pages.md) |
 |   View Components      |  [Link](/View_Components.md) |
+|   Send Emails      |  [Link](/Sendgrid.md) |
 |   Payment Processing      |  [Link](/Payment_Processing.md) |
 
 
