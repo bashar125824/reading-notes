@@ -40,7 +40,7 @@
 |   View Components      |  [Link](/View_Components.md) |
 |   Send Emails      |  [Link](/Sendgrid.md) |
 |   Payment Processing      |  [Link](/Payment_Processing.md) |
-|   Graphs      |  [Link](/Graph.md.md) |
+|   Graphs      |  [Link](/Graph.md) |
 
 
 ---
